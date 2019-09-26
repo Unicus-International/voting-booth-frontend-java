@@ -1,3 +1,7 @@
+package Controller;
+
+import View.*;
+
 public class AuthenticationController {
     LoginView loginView;
     LogoutView logoutView;
