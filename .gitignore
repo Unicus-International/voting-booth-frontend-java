@@ -2,6 +2,7 @@
 /.metadata/
 .idea/
 /bin
+/nbproject
 
 # Compiled class file
 *.class
