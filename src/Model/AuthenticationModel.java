@@ -11,9 +11,12 @@ import java.awt.event.ActionEvent;
  *
  * @author karlw
  */
-public class Authentication {
+public class AuthenticationModel {
     
-    boolean loggedin;
+    public boolean loggedin;
+    
+ 
+    public String email, name, password;
 
  
     
